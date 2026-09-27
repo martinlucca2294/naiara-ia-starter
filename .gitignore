@@ -1,0 +1,17 @@
+/local/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*credentials*.json
+*token*.json
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+node_modules/
+.venv/
+.obsidian/
+.claude/settings.local.json
+.codex/
