@@ -43,7 +43,7 @@ codex --version
 
 Si PowerShell bloquea el archivo `codex.ps1`, probá `codex.cmd --version` y usá `codex.cmd` para iniciarlo. No cambies la política global de Windows para resolver ese caso. Verificá el método npm en la pestaña correspondiente de la [guía oficial de CLI](https://learn.chatgpt.com/docs/codex/cli); si el proveedor cambia el método, seguí la guía actual.
 
-Abrí la carpeta del kit y ejecutá `codex`. Completá el ingreso con tu cuenta de ChatGPT si esa opción está disponible. Revisá permisos y acceso del plan en la pantalla. Alternativa visual: [aplicación de escritorio para Windows](https://learn.chatgpt.com/docs/windows/desktop-app); también tenés que seleccionar esta carpeta como proyecto. El nombre o menú puede variar según versión.
+Abrí la carpeta del kit y ejecutá `codex`. Completá el ingreso con tu cuenta de ChatGPT si esa opción está disponible. Revisá permisos y acceso del plan en la pantalla. Alternativa visual: [aplicación de escritorio para Windows](https://learn.chatgpt.com/docs/windows/windows-app); también tenés que seleccionar esta carpeta como proyecto. El nombre o menú puede variar según versión.
 
 **Prueba:** pedile que lea README.md y diga los tres primeros pasos. Una versión impresa sólo confirma instalación; una respuesta leyendo tu archivo confirma que esa sesión puede trabajar aquí.
 

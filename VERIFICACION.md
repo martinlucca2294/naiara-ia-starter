@@ -2,6 +2,12 @@
 
 Preparado el 27/09/2026. Este archivo registra pruebas del material distribuido; no certifica cuentas o servicios de Naiara.
 
+## Resultado comprobado
+
+El commit `dd92d9119226689ea9a671421a5e8456d3a7b844` pasó [GitHub Actions en Windows](https://github.com/martinlucca2294/naiara-ia-starter/actions/runs/36342166401): **16 pruebas Python**, prueba con **Windows PowerShell 5.1** y prueba con **PowerShell 7**. También pasaron las 16 pruebas sin red en la máquina de preparación y el validador de formato de las cuatro skills originales.
+
+La revisión independiente detectó una dependencia de las skills al moverlas fuera del kit; se corrigió la guía para conservar y comprobar sus recursos. Se revisaron archivos a publicar y exclusiones de memoria/credenciales. No es una auditoría de seguridad exhaustiva ni una prueba en la computadora personal de Naiara.
+
 ## Alcance
 
 - Pruebas Python sin red para Telegram: vinculación por código, exclusión de chats, archivos, errores sin secretos y ausencia de reintentos de envíos.
